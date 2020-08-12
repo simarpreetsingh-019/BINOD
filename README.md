@@ -1,2 +1,7 @@
 # BINOD
-if you're reading this from your feed, please open this repository and check README.md
+Great, that I've got your attention. 
+
+Please nominate me for github stars awards.
+[click here](https://stars.github.com/nominate) to nominate me.
+Search my username midopooler in the list and write why you wanna nominate.
+
